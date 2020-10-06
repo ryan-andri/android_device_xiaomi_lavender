@@ -18,5 +18,4 @@ PRODUCT_MAKEFILES := \
 
 COMMON_LUNCH_CHOICES := \
     carbon_lavender-user \
-    carbon_lavender-userdebug \
-    carbon_lavender-eng
+    carbon_lavender-userdebug
